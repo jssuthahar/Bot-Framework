@@ -1,0 +1,41 @@
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\Bot Application.dll.config
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\Bot Application.dll
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\Bot Application.pdb
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\Autofac.dll
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\Chronic.dll
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\Microsoft.Bot.Builder.dll
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\Microsoft.Bot.Connector.dll
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\Newtonsoft.Json.dll
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\System.Net.Http.Formatting.dll
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\System.Web.Http.dll
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\System.Web.Http.WebHost.dll
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\Autofac.xml
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\Microsoft.Bot.Builder.xml
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\Microsoft.Bot.Connector.xml
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\Newtonsoft.Json.xml
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\System.Net.Http.Formatting.xml
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\System.Web.Http.xml
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\System.Web.Http.WebHost.xml
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\obj\Debug\Botstatedata.csprojResolveAssemblyReference.cache
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\obj\Debug\Botstatedata.csproj.CoreCompileInputs.cache
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\obj\Debug\Bot Application.dll
+C:\Suthahar\Xamarin\Xamarin\Botstatedata\Botstatedata\obj\Debug\Bot Application.pdb
